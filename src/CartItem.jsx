@@ -13,8 +13,7 @@ const CartItem = ({ onContinueShopping }) => {
   const calculateTotalAmount = () => {
     return cart
       .reduce((total, item) => {
-        const price = parseFloat(item.cost.substring(1));
-        return total + price * item.quantity;
+        return total + item.cost * item.quantity;
       }, 0)
       .toFixed(2);
   };
@@ -66,8 +65,7 @@ const CartItem = ({ onContinueShopping }) => {
   // Sous-total par article
   // -----------------------------
   const calculateTotalCost = (item) => {
-    const price = parseFloat(item.cost.substring(1));
-    return (price * item.quantity).toFixed(2);
+    return (item.cost * item.quantity).toFixed(2);
   };
 
   // -----------------------------
@@ -91,7 +89,7 @@ const CartItem = ({ onContinueShopping }) => {
 
             <div className="cart-item-details">
               <div className="cart-item-name">{item.name}</div>
-              <div className="cart-item-cost">{item.cost}</div>
+              <div className="cart-item-cost">${item.cost}</div>
 
               <div className="cart-item-quantity">
                 <button

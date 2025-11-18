@@ -60,7 +60,6 @@ Les contributions, issues et suggestions sont les bienvenues !
 
 <img width="1919" height="870" alt="totalamount" src="https://github.com/user-attachments/assets/24b97cd6-2960-4102-832e-d65b6d0e0e12" />
 
-![Landing Page](./images/landing_page.png)
 
 
 

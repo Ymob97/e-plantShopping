@@ -52,11 +52,11 @@ Les contributions, issues et suggestions sont les bienvenues !
 ![Checkout](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/checkout_message.png)
 
 ### Liste des produits
-[Produit 1](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_1.png)
+![Produit 1](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_1.png)
 ![Produit 2](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_2.png)
-![Produit 3](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_3.png)
+![Produit 3](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/produclist_3.png)
 ![Produit 4](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_4.png)
-![Produit 5](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_5.png)
+![Produit 5](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/Productlist_5.png)
 ![Produit 6](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_6.png)
 
 ### Total

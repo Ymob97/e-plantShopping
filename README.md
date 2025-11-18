@@ -24,6 +24,7 @@ http://localhost:5173
 Build pour la production :
 npm run build
 
+
 Prévisualisation du build :
 npm run preview
 
@@ -63,7 +64,6 @@ Les contributions, issues et suggestions sont les bienvenues !
 
 
 
-<img width="1916" height="914" alt="checkout_message" src="https://github.com/user-attachments/assets/bf8783f5-0f38-4dab-a5c4-c026d021dc01" />
 
 
 

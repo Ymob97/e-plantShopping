@@ -5,7 +5,8 @@ Application React (Vite) permettant d’explorer et acheter des plantes en ligne
 Projet rapide, moderne et optimisé grâce à Vite.
 Projet final module Ract - IBM Dev Full Stack
 
-
+Visiter le site : 
+https://ymob97.github.io/e-plantShopping/
 ---
 
 ## 🚀 Installation

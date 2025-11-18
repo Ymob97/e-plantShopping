@@ -46,21 +46,21 @@ Les contributions, issues et suggestions sont les bienvenues !
 ## Aperçu du projet
 
 ### Page d'accueil
-![Landing Page](images/landing_page.png)
+![Landing Page](./images/landing_page.png)
 
 ### Checkout / Panier
-![Checkout](images/checkout_message.png)
+![Checkout](./images/checkout_message.png)
 
 ### Liste des produits
-![Produit 1](images/productlist_1.png)
-![Produit 2](images/productlist_2.png)
-![Produit 3](images/produclist_3.png)   
-![Produit 4](images/productlist_4.png)
-![Produit 5](images/Productlist_5.png)  
-![Produit 6](images/productlist_6.png)
+![Produit 1](./images/productlist_1.png)
+![Produit 2](./images/productlist_2.png)
+![Produit 3](./images/productlist_3.png)
+![Produit 4](./images/productlist_4.png)
+![Produit 5](./images/productlist_5.png)
+![Produit 6](./images/productlist_6.png)
 
 ### Total
-![Total](images/totalamount.png)
+![Total](./images/totalamount.png)
 
 
 

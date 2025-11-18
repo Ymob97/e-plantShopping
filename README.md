@@ -42,11 +42,11 @@ Les contributions, issues et suggestions sont les bienvenues !
 
 
 
-<img width="1918" height="870" alt="landing page" src="https://github.com/user-attachments/assets/ac41feaa-1ecd-4a1d-9cdc-80ba3ee78dc1" 
 
+![landing_page](public/landing-page.png)
 
-<img width="1919" height="870" alt="totalamount" src="https://github.com/user-attachments/assets/86b41f13-f35a-4a02-a021-fb3b541728ca" />
+![totalamount](public/landing-page.png)
 
-<img width="1916" height="914" alt="checkout_message" src="https://github.com/user-attachments/assets/ef4f57c8-f691-43bb-aee9-fbd3b6e34dec" />
+![checkout_message](public/landing-page.png)
 
 

@@ -45,8 +45,8 @@ Les contributions, issues et suggestions sont les bienvenues !
 
 ![landing_page](public/landing-page.png)
 
-![totalamount](public/landing-page.png)
+![totalamount](public/totalamount.png)
 
-![checkout_message](public/landing-page.png)
+![checkout_message](public/checkout_message.png)
 
 

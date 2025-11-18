@@ -41,28 +41,24 @@ Les contributions, issues et suggestions sont les bienvenues !
 
 ----
 
-# e-PlantShopping
+## 🌿 Aperçu du projet
 
-## Aperçu du projet
+### 🏠 Page d'accueil
+![Landing Page](./images/landing_page.png)
 
-### Page d'accueil
-![Landing Page](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/landing_page.png)
+### 🛒 Checkout / Panier
+![Checkout](./images/checkout_message.png)
 
-### Checkout / Panier
-![Checkout](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/checkout_message.png)
+### 🛍️ Liste des produits
+![Produit 1](./images/productlist_1.png)
+![Produit 2](./images/productlist_2.png)
+![Produit 3](./images/productlist_3.png)
+![Produit 4](./images/productlist_4.png)
+![Produit 5](./images/productlist_5.png)
+![Produit 6](./images/productlist_6.png)
 
-### Liste des produits
-![Produit 1](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_1.png)
-![Produit 2](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_2.png)
-![Produit 3](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/produclist_3.png)
-![Produit 4](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_4.png)
-![Produit 5](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/Productlist_5.png)
-![Produit 6](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/productlist_6.png)
-
-### Total
-![Total](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/totalamount.png)
-
-
+### 💵 Total du panier
+![Total](./images/totalamount.png
 
 
 

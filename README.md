@@ -54,14 +54,13 @@ Les contributions, issues et suggestions sont les bienvenues !
 ### Liste des produits
 ![Produit 1](images/productlist_1.png)
 ![Produit 2](images/productlist_2.png)
-![Produit 3](images/produclist_3.png)
+![Produit 3](images/produclist_3.png)   
 ![Produit 4](images/productlist_4.png)
-![Produit 5](images/Productlist_5.png)
+![Produit 5](images/Productlist_5.png)  
 ![Produit 6](images/productlist_6.png)
 
 ### Total
 ![Total](images/totalamount.png)
-
 
 
 

@@ -61,22 +61,6 @@ Les contributions, issues et suggestions sont les bienvenues !
 ### Total
 ![Total](images/totalamount.png)
 
----
-
-## Description
-
-e-PlantShopping est un projet React + Vite qui permet de parcourir des produits, ajouter au panier, et gérer le checkout.  
-Les captures ci-dessus montrent les principales fonctionnalités.
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/Ymob97/e-plantShopping.git
-cd e-plantShopping
-npm install
-npm run dev
 
 
 

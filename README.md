@@ -1,3 +1,4 @@
+<img width="1916" height="914" alt="checkout_message" src="https://github.com/user-attachments/assets/26a9eab4-f678-4749-a3d3-5fe46d1adad7" />
 # 🌱 E-plantShopping
 
 Application React (Vite) permettant d’explorer et acheter des plantes en ligne.  

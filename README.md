@@ -48,6 +48,8 @@ Les contributions, issues et suggestions sont les bienvenues !
 ### Page d'accueil
 ![Landing Page](./images/landing_page.png)
 
+![Landing Page](https://raw.githubusercontent.com/Ymob97/e-plantShopping/main/images/landing_page.png)
+
 ### Checkout / Panier
 ![Checkout](./images/checkout_message.png)
 
